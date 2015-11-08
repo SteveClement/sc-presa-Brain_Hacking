@@ -1,0 +1,23 @@
+- [ ] Compare various molecules
+- [ ] Explain briefly how the brain works
+- [ ] Explain Serotonin (and brain receptors in general)
+- [ ] Mesolymbic pathway, Reward path way
+- [ ] Dopamine
+- [ ] Norephinephrine
+- [ ] Neuron oh Neuron
+- [ ] Explain MAOI's
+- [ ] Explain enzyme
+- [ ] Explain SSRI (tricyclic antidepressants)
+- [ ] Show brain scans of brains under the influence
+- [ ] Synthetic vs. Natural vs. The Brain
+- [ ] 10 psychedelic experiences lest the substance
+- [ ] List the different types of substances, uppers, downers etc. (tryptamines etc)
+- [ ] Talk about dependencies, types etc.
+- [ ] Talk about harm reduction, physical harm, social harm etc
+- [ ] Add disclosure, I am NOT: a Chemist, a Doctor, a Neuroscientist, a Psychologist, a Psychiatrist -> If professional help is needed, do it like you would do with any issue, see a specialist.
+- [ ] Main examples: Psylocibin, DMT, Nicotine, Ethanol, Sucrose, Nutmeg, Benzo, ssri, Nootropics
+- [ ] Dangers and fears
+- [ ] Resources
+- [ ] Some psychedelic history
+- [ ] Food for thought, Why do we have receptors in the brain that work quite well with Psychedelics? Why are there such plants/mushrooms? When to regulate?
+- [ ] Q&A
