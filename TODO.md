@@ -19,5 +19,6 @@
 - [ ] Dangers and fears
 - [ ] Resources
 - [ ] Some psychedelic history
+- [ ] Some legalese history and the Future in 2016 (UN Text)
 - [ ] Food for thought, Why do we have receptors in the brain that work quite well with Psychedelics? Why are there such plants/mushrooms? When to regulate?
 - [ ] Q&A
