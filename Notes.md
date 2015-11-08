@@ -10,3 +10,5 @@ Coca, benzoylmethylecgonine,
 Software used to create molecules, [Avogadro](http://avogadro.cc/wiki/Main_Page)
 
 [Python Molecule reaction game](https://github.com/Norberg/molecule)
+
+Brain training with Puzzles etc
