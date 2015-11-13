@@ -15,7 +15,7 @@
 - [ ] Talk about dependencies, types etc.
 - [ ] Talk about harm reduction, physical harm, social harm etc
 - [ ] Add disclosure, I am NOT: a Chemist, a Doctor, a Neuroscientist, a Psychologist, a Psychiatrist -> If professional help is needed, do it like you would do with any issue, see a specialist.
-- [ ] Main examples: [Psylocibin](https://en.wikipedia.org/wiki/Psilocybin), [DMT](https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine), [Nicotine](https://en.wikipedia.org/wiki/Nicotine), [Ethanol](https://en.wikipedia.org/wiki/Ethanol), [Sucrose](https://en.wikipedia.org/wiki/Sucrose), [Nutmeg](https://en.wikipedia.org/wiki/Nutmeg#Psychoactivity_and_toxicity), [Benzo](https://en.wikipedia.org/wiki/Benzodiazepine), [ssri](https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor), [Nootropics](https://en.wikipedia.org/wiki/Nootropic), [Cocaine](https://en.wikipedia.org/wiki/Cocaine)
+- [ ] Main examples: [Psylocibin](https://en.wikipedia.org/wiki/Psilocybin), [DMT](https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine), [Nicotine](https://en.wikipedia.org/wiki/Nicotine), [Ethanol](https://en.wikipedia.org/wiki/Ethanol), [Sucrose](https://en.wikipedia.org/wiki/Sucrose), [Nutmeg](https://en.wikipedia.org/wiki/Nutmeg#Psychoactivity_and_toxicity), [Benzo](https://en.wikipedia.org/wiki/Benzodiazepine), [ssri](https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor), [Nootropics](https://en.wikipedia.org/wiki/Nootropic), [Cocaine aka. Benzoylmethylecgonine](https://en.wikipedia.org/wiki/Cocaine)
 - [ ] Dangers and fears
 - [ ] Resources
 - [ ] Some psychedelic history

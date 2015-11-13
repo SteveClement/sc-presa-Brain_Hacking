@@ -5,7 +5,8 @@ Under review are claims of potentially lethal dietary and drug interactions.
 
 Selective serotonin reuptake inhibitors
 
-Coca, benzoylmethylecgonine, 
+CK - Slang for Cocaine (Coke, in Luxembourg some time referred to as Cola or more scientifically: Benzoylmethylecgonine) and Ketamine mixed consumption
+[C](https://en.wikipedia.org/wiki/Cocaine) [K](https://en.wikipedia.org/wiki/Ketamine)
 
 Software used to create molecules, [Avogadro](http://avogadro.cc/wiki/Main_Page)
 
@@ -25,13 +26,17 @@ Emphasize altered states of consciousness.
 [Neurohack](http://Neurohack.cc) Thanks @Maijin
 [Brain Machine](https://learn.adafruit.com/brain-machine/overview)
 
-/!\ Danger! /!\ [NBOM(b)](https://www.erowid.org/chemicals/2ci_nbome/)
+/!\ Danger! /!\ [NBOM(b)](https://www.erowid.org/chemicals/2ci_nbome/) [Wikipedia](https://en.wikipedia.org/wiki/25I-NBOMe)
 
 [Adenosine](https://en.wikipedia.org/wiki/Adenosine) builds up throughout the day and binds to receptors, slow downs activity. During sleep Adenosine diminishes. Making you feel less Brain tired.
 
 [Caffeine](https://en.wikipedia.org/wiki/Caffeine) is similar in structure then Adenosine. Caffeine also stimulates [adrenaline](https://en.wikipedia.org/wiki/Epinephrine) Dopamine stimulation. Halflife 6 hours, consume 150mg, 6 hours later only 75mg in Bloodstream.
 
 [Psilohuasca](http://www.psilohuasca.com/)
+
+[Mescalin](https://de.wikipedia.org/wiki/Mescalin)
+
+[Ibogaine](https://en.wikipedia.org/wiki/Ibogaine)
 
 [Major types of compounds in plants & animals](http://waynesword.palomar.edu/chemid2.htm)
 
