@@ -23,6 +23,7 @@ Emphasize altered states of consciousness.
 [How To](http://www.wikihow.com/Lucid-Dream)
 
 [Neurohack](http://Neurohack.cc) Thanks @Maijin
+[Brain Machine](https://learn.adafruit.com/brain-machine/overview)
 
 /!\ Danger! /!\ [NBOM(b)](https://www.erowid.org/chemicals/2ci_nbome/)
 
