@@ -30,6 +30,11 @@ Emphasize altered states of consciousness.
 
 [Adenosine](https://en.wikipedia.org/wiki/Adenosine) builds up throughout the day and binds to receptors, slow downs activity. During sleep Adenosine diminishes. Making you feel less Brain tired.
 
+[Diethyl ether, IUPAC: Ethoxyethane](https://en.wikipedia.org/wiki/Diethyl_ether) [IUPAC Name, chemical name](https://en.wikipedia.org/wiki/Chemical_nomenclature) **IUPAC** == [International Union of Pure and Applied Chemistry](https://en.wikipedia.org/wiki/International_Union_of_Pure_and_Applied_Chemistry)
+
+[Volume rendering](https://en.wikipedia.org/wiki/Volume_rendering)
+[Electron rendering](https://commons.wikimedia.org/wiki/File:Diethyl_Ether_Electron_Rendering.png)
+
 [Caffeine](https://en.wikipedia.org/wiki/Caffeine) is similar in structure then Adenosine. Caffeine also stimulates [adrenaline](https://en.wikipedia.org/wiki/Epinephrine) Dopamine stimulation. Halflife 6 hours, consume 150mg, 6 hours later only 75mg in Bloodstream.
 
 [Psilohuasca](http://www.psilohuasca.com/)
