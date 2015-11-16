@@ -8,6 +8,10 @@ Selective serotonin reuptake inhibitors
 CK - Slang for Cocaine (Coke, in Luxembourg some time referred to as Cola or more scientifically: Benzoylmethylecgonine) and Ketamine mixed consumption
 [C](https://en.wikipedia.org/wiki/Cocaine) [K](https://en.wikipedia.org/wiki/Ketamine)
 
+[Hyoscyamine](https://en.wikipedia.org/wiki/Hyoscyamine)
+
+![Cocaine vs. Hyoscyamine](img/cocaine_vs_hyoscyamine.gif)
+
 Software used to create molecules, [Avogadro](http://avogadro.cc/wiki/Main_Page)
 
 [Ribbon diagram, aka Richardson diagram, some times Cartoon diagram](https://en.wikipedia.org/wiki/Ribbon_diagram)
@@ -34,6 +38,7 @@ Emphasize altered states of consciousness.
 
 [Volume rendering](https://en.wikipedia.org/wiki/Volume_rendering)
 [Electron rendering](https://commons.wikimedia.org/wiki/File:Diethyl_Ether_Electron_Rendering.png)
+![Example of Electron Rendering](img/Diethyl_Ether_Electron_Rendering.png)
 
 [Caffeine](https://en.wikipedia.org/wiki/Caffeine) is similar in structure then Adenosine. Caffeine also stimulates [adrenaline](https://en.wikipedia.org/wiki/Epinephrine) Dopamine stimulation. Halflife 6 hours, consume 150mg, 6 hours later only 75mg in Bloodstream.
 
