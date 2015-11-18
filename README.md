@@ -16,12 +16,12 @@ Exploring the depths of your consciousness and discovering ways to stimulate cog
 
 # Abstract LB
 
-Jiddereen huet ee Gehir. Verschidde Mënschen notzen et méi, anerer manner, mä wat mer alleguerten deelen sinn stimulanz déi meir eisem gehir constant aussétzen. Generell geschitt dësst Automagesch a mir hu keen afloss what open engem bio-chemechen niveau leeft.
+Jiddereen huet ee Gehir. Verschidde Mënschen notzen et méi, anerer manner, mä wat mer alleguerten deele si Stimulanz déi mir eisem Gehir konstant aussetzen. Generell geschitt dëst Automagesch a mir hu keen Afloss wat op engem Bio-chemeschen Niveau leeft.
 
-Dat ass awer nëmmen Deels wouer fir Mënschen déi ganz bewosst hirt gehir stimuléeiren.
-Vu Pezzel an aner sophistikéeirt gehier quetschen dauche mer déif an de Mënschleche Geescht a seng Psych an.
+Dat ass awer nëmmen Deels wouer fir Mënschen déi ganz bewosst hiert Gehir stimuléieren.
+Vu Puzzel an aner sophistiquéiert Gehir quetschen dauche mer déif an de Mënschleche Geescht a seng Psyche an.
 
-Mir entdecken déiften vun eisem bewosstsënn an erfueren méig;echkeeten eis cognitive fähegkeeten ze stimuléieren; ouni taboo mä mat vill oppe froen a weeër wéi eventuell jiddereen mat senge perseinlechen äntwerte bäidroe kann.
+Mir entdecken Déifte vun eisem Bewosstsënn an erfuere Méiglechkeeten eis kognitiv Fähegkeeten ze stimuléieren; ouni Tabu mä mat vill oppe froen a Weeër wéi eventuell jidderee mat senge perséinlechen äntwerte bäidroe kann.
 
 (D'Presentatioun wäert op Englesch sinn)
 
