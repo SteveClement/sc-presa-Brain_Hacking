@@ -8,93 +8,94 @@
 \usepackage{minted}
 
 % set default theme
-\usetheme{default}
+\usetheme{-bjeldbak/beamerthemebjeldbak}
 
 % disable navigation symbols
-\setbeamertemplate{navigation symbols}{}
+%\setbeamertemplate{navigation symbols}{}
 
 % define greyish background colour for the highlighted code
 \definecolor{bg}{rgb}{0.95,0.95,0.95}
-
-
-\begin{document}
 
 % define title, author and date
 \title{Brain Hacking Presentation\\(not to be confused with Chicken, chicken chicken \ldots  chicken) \footnote{\url{https://isotropic.org/papers/chicken.pdf}}}
 \author{@SteveClement}
 \date{November 8, 2015}
 
-
+\begin{document}
+  
 % 1
-\frame{\titlepage}
+  {
+    \setbeamertemplate{headline}{}
+    \frame{\titlepage}
+  }
 
 % 2
 \begin{frame}
-\frametitle{whoami}
-steve, hacker, fool, psychonaut, Mensch
+	\frametitle{whoami}
+	steve, hacker, fool, psychonaut, Mensch
 \end{frame}
 
 % 3
 \begin{frame}
-\frametitle{Psychonaut quo vadis?}
-In a nutshell: A person navigating his own psyche with different stimuli, IMHO aka. Brain Hacker
+	\frametitle{Psychonaut quo vadis?}
+	In a nutshell: A person navigating his own psyche with different stimuli, IMHO aka. Brain Hacker
 \end{frame}
 
 % 4
 \begin{frame}
-\frametitle{What is Brain Hacking according to Google?}
+	\frametitle{What is Brain Hacking according to Google?}
 
-Googling for Brain Hacking gives 3 interesting top matches:
+	Googling for Brain Hacking gives 3 interesting top matches:
 
-1. Mind Hacks
+	1. Mind Hacks
 
-2. Neurohacking
+	2. Neurohacking
 
-3. Mind Performance Hacks
+	3. Mind Performance Hacks
 
-All three on WikiPedia
-\\
-Brain Hacking will henceforth be referred to as {\bf BH}
+	All three on WikiPedia
+	\\
+	Brain Hacking will henceforth be referred to as {\bf BH}
 \end{frame}
 
 % 5
 \begin{frame}
-\frametitle{What is Brain Hacking?}
-Neurohacking is the colloquial term for (usually personal or "DIY") neuroengineering. It is a form of biohacking (qv) focusing on the brain and CNS. Strictly speaking it is any method of manipulating or interfering with the structure and/or function of neurons for improvement or repair.
-\\
-Henceforth referred to as {\bf BH}
+	\frametitle{What is Brain Hacking?}
+	Neurohacking is the colloquial term for (usually personal or "DIY") neuroengineering. It is a form of biohacking (qv) focusing on the brain and CNS. Strictly speaking it is any method of manipulating or interfering with the structure and/or function of neurons for improvement or repair.
+	\\
+	Henceforth referred to as {\bf BH}
 \end{frame}
 
 % 6
 \begin{frame}
-\frametitle{What is BH in RL}
-\begin{center}
-\includegraphics[scale=0.20]{img/mindreader3.jpg}
-\end{center}
+	\frametitle{What is BH in RL?}
+	\begin{center}
+		\includegraphics[scale=0.17]{img/mindreader3.jpg}
+	\end{center}
 \end{frame}
 
 % 7
 \begin{frame}
-\frametitle{Drugs are bad Mkay?}
-\being{center}
-\includegraphics[scale=0.20]{img/drugsarebad.jpg}
-\end{center}
+	\frametitle{Drugs are bad Mkay?}
+	\begin{center}
+		\includegraphics[scale=0.40]{img/south-park-s02e04c01-drugs-are-bad-16x9.jpg}
+	\end{center}
 \end{frame}
 
 % 8
 \begin{frame}
-\frametitle{Drugs are bad according to the state and media?}
-Changing paradigm \ldots finally the war on drugs is being seen what it really is and was (a big fuck-off shout-out to the Nixon administration)
-% Universal text on drugs, doesn't even mention what a drug is, c.f  Lobbying and the problems it would generate for the legal drugs
+	\frametitle{Drugs are bad according to the state and media?}
+	Changing paradigm \ldots finally the war on drugs is being seen what it really is and was (a big fuck-off shout-out to the Nixon administration)
+	% Universal text on drugs, doesn't even mention what a drug is, c.f  Lobbying and the problems it would generate for the legal drugs
 \end{frame}
 
 % 9
 \begin{frame}
-\frametitle{Media disinformation}
-\being{center}
-\includegraphics[scale=0.20]{img/disinformation.jpg}
-\end{center}
-% Winehouse example, MDMA Holes in the brain example
+	\frametitle{Media disinformation}
+	\begin{center}
+		\includegraphics[scale=0.20]{img/theSunScrotum.png}
+	\end{center}
+	% Winehouse example, MDMA Holes in the brain example
 \end{frame}
 
 % 10
@@ -111,47 +112,47 @@ Changing paradigm \ldots finally the war on drugs is being seen what it really i
 
 % 12
 \begin{frame}
-\frametitle{Drugs are not that bad according to the state and media!}
-Changing paradigm \ldots finally, everything is a drug not everything is a bad drug.
-% Dosage
+	\frametitle{Drugs are not that bad according to the state and media!}
+	Changing paradigm \ldots finally, everything is a drug not everything is a bad drug.
+	% Dosage
 \end{frame}
 
 % 13
 \begin{frame}
-\frametitle{How?}
+	\frametitle{How?}
 \end{frame}
 
 % 14
 \begin{frame}
-\frametitle{How?}
-\inputminted[firstline=1, lastline=6, gobble=0, linenos, mathescape, bgcolor=bg, numbersep=8pt, frame=lines, framesep=3mm, fontsize=\scriptsize]{python}{code/bh.py}
+	\frametitle{How?}
+	\inputminted[firstline=1, lastline=6, gobble=0, linenos, mathescape, bgcolor=bg, numbersep=8pt, frame=lines, framesep=3mm, fontsize=\scriptsize]{python}{code/bh.py}
 \end{frame}
 
 % 15
 \begin{frame}
-\frametitle{Demo with lea and the actual generator}
-Goo does not play dice
-\\
-\includegraphics[scale=0.60]{img/mjr_anarchist_flag.jpg}
-\\
-(Anarcho Syndicalism, Google it and become an atheist nihilist)
+	\frametitle{Demo with lea and the actual generator}
+	Goo does not play dice
+	\\
+	\includegraphics[scale=0.60]{img/mjr_anarchist_flag.jpg}
+	\\
+	(Anarcho Syndicalism, Google it and become an atheist nihilist)
 \end{frame}
 
 % 16
 \begin{frame}
-\frametitle{SO sorry\ldots}
-I broke some laws, mostly copyright laws.
-\\
-Credit where credit is due, all my sources are amazing people. Thanks.
+	\frametitle{SO sorry\ldots}
+	I broke some laws, mostly copyright laws.
+	\\
+	Credit where credit is due, all my sources are amazing people. Thanks.
 \end{frame}
 
 % 17
 \begin{frame}
-\frametitle{Thanks for the fish and do not believe the hype}
-\begin{center}
-\includegraphics[scale=1.00]{img/bullshit-sculpture.jpg}
-\end{center}
-Created in \LaTeX{} with \includegraphics[scale=0.05]{img/polyamory.png}
+	\frametitle{Thanks for the fish and do not believe the hype}
+	\begin{center}
+		\includegraphics[scale=1.00]{img/bullshit-sculpture.jpg}
+	\end{center}
+	Created in \LaTeX{} with \includegraphics[scale=0.05]{img/polyamory.png}
 \end{frame}
 
 \end{document}

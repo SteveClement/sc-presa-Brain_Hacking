@@ -10,6 +10,8 @@ CK - Slang for Cocaine (Coke, in Luxembourg some time referred to as Cola or mor
 
 [Hyoscyamine](https://en.wikipedia.org/wiki/Hyoscyamine)
 
+[Meow Meow aka Mephedrone](https://en.wikipedia.org/wiki/Mephedrone)
+
 ![Cocaine vs. Hyoscyamine](img/cocaine_vs_hyoscyamine.gif)
 
 Software used to create molecules, [Avogadro](http://avogadro.cc/wiki/Main_Page)
