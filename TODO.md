@@ -18,7 +18,7 @@
 - [ ] Main examples: [Psylocibin](https://en.wikipedia.org/wiki/Psilocybin), [DMT](https://en.wikipedia.org/wiki/N,N-Dimethyltryptamine), [Nicotine](https://en.wikipedia.org/wiki/Nicotine), [Ethanol](https://en.wikipedia.org/wiki/Ethanol), [Sucrose](https://en.wikipedia.org/wiki/Sucrose), [Nutmeg](https://en.wikipedia.org/wiki/Nutmeg#Psychoactivity_and_toxicity), [Benzo](https://en.wikipedia.org/wiki/Benzodiazepine), [ssri](https://en.wikipedia.org/wiki/Selective_serotonin_reuptake_inhibitor), [Nootropics](https://en.wikipedia.org/wiki/Nootropic), [Cocaine aka. Benzoylmethylecgonine](https://en.wikipedia.org/wiki/Cocaine)
 - [ ] Dangers and fears
 - [ ] Resources
-- [ ] Some psychedelic history
+- [ ] Some psychedelic history, explain where it possibly went wrong
 - [ ] Some legalese history and the Future in 2016 (UN Text)
 - [ ] Food for thought, Why do we have receptors in the brain that work quite well with Psychedelics? Why are there such plants/mushrooms? When to regulate?
 - [ ] Q&A
