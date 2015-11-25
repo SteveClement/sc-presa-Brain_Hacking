@@ -60,3 +60,5 @@ Give example on receptor over-load (check LoMo link)
 [Science on crack: the Chemistry of illegal drugs, 1](https://puffthemutantdragon.wordpress.com/2012/07/22/science-on-crack-the-chemistry-of-illegal-drugs-1/)
 
 Konkurrenz-denken bei Psychoaktive Stoffer?
+
+Wat ass een [Excipient](https://en.wikipedia.org/wiki/Excipient)?
