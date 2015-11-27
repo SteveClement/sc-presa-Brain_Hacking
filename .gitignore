@@ -106,6 +106,7 @@ acs-*.bib
 
 # minted
 *.pyg
+_minted-BH-content
 
 # morewrites
 *.mw
