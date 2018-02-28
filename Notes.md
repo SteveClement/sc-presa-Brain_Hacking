@@ -26,6 +26,7 @@ Software used to create molecules, [Avogadro](http://avogadro.cc/wiki/Main_Page)
 
 [Python Molecule reaction game](https://github.com/Norberg/molecule)
 
+<<<<<<< Updated upstream
 Brain training with Puzzles. Threshold once getting good at it. Mix it up, stimulation is key.
 
 Emphasize altered states of consciousness talk about the mystery of the mind and that we are fairly unique when it comes to consciousness.
@@ -62,3 +63,9 @@ Give example on receptor over-load (check LoMo link)
 Konkurrenz-denken bei Psychoaktive Stoffer?
 
 Wat ass een [Excipient](https://en.wikipedia.org/wiki/Excipient)?
+
+Brain training with Puzzles etc
+
+[Adenosine](https://en.wikipedia.org/wiki/Adenosine) builds up throughout the day and binds to receptors, slow downs activity. During sleep Adenosine diminishes. Making you feel less Brain tired.
+
+[Caffeine](https://en.wikipedia.org/wiki/Caffeine) is similar in structure then Adenosine. Caffeine also stimulates [adrenaline](https://en.wikipedia.org/wiki/Epinephrine) Dopamine stimulation. Halflife 6 hours, consume 150mg, 6 hours later only 75mg in Bloodstream.
